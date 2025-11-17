@@ -7,6 +7,8 @@
 Get PrivacySafe 👉 <a href="https://privacysafe.app">PrivacySafe.app</a>
 </h2>
 
+...
+
 ---
 
 ## License
