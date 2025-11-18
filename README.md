@@ -17,4 +17,8 @@ Get PrivacySafe 👉 <a href="https://privacysafe.app">PrivacySafe.app</a>
 
 * PrivacySafe Social banner modifed from artwork by [Pikswell](https://www.deviantart.com/pikswell/art/Retro-wave-Lofi-956577184), [Creative Commons BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) .
 
-* [Stack Sans font](https://github.com/DylanYoungKoto/Stack-Sans) by Koto Studio, [SIL Open Font License](https://fontesk.com/license/ofl-gpl/).
+* [Stack Sans font family](https://github.com/DylanYoungKoto/Stack-Sans) by Koto Studio, [SIL Open Font License](https://fontesk.com/license/ofl-gpl/).
+
+* [Ubuntu font family](https://fontsource.org/fonts/ubuntu) by Canonical Ltd, [Ubuntu Font Licence](https://canonical.com/legal/font-licence).
+
+* [Bungee font family](https://github.com/djrrb/Bungee) by Bungee Project, [SIL Open Font License](https://fontesk.com/license/ofl-gpl/).
