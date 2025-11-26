@@ -22,3 +22,5 @@ Get PrivacySafe 👉 <a href="https://privacysafe.app">PrivacySafe.app</a>
 * [Ubuntu font family](https://fontsource.org/fonts/ubuntu) by Canonical Ltd, [Ubuntu Font Licence](https://canonical.com/legal/font-licence).
 
 * [Bungee font family](https://github.com/djrrb/Bungee) by Bungee Project, [SIL Open Font License](https://fontesk.com/license/ofl-gpl/).
+
+* [Kenney Game Assets](Kenney.nl) by Kenney Vleugels, [Creative Commons Zero Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)
