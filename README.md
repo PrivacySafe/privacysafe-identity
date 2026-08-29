@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://privacysafe.app"><img src="privacysafe-app/privacysafe_header_600.png" width="600" /></a>
+  <a href="https://privacysafe.app"><img src="privacysafe-app/privacysafe_horizontal_logo_lock_padded.png" width="600" /></a>
 </p>
 <h1 align="center">Identity &amp; Branding</h1>
 
